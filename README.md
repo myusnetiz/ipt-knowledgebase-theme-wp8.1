@@ -1,4 +1,4 @@
-# WP Knowledge Base Theme
+# WP Knowledge Base Theme 1.8.1
 #### by iPanelThemes.com
 
 ![Theme Logo](theme-banner.png?raw=true)
@@ -8,7 +8,7 @@ Finally a free and open source knowledge base theme made specifically for WordPr
 Uses twitter bootstrap for rendering UI components and some other open source elements
 for rendering niceness.
 
-Released version 1.5.1. Download the release and upload it as a WordPress Theme.
+Released version 1.8.1. Download the release and upload it as a WordPress Theme.
 
 ## Acknowledgement
 Before we dive into the cool features of this theme, let's take a minute here to acknowledge
@@ -140,12 +140,12 @@ Copyright: Google Fonts, https://www.google.com/fonts/attribution
 
 ## Changelog
 
-### Version 1.7.7
+### Version 1.8.1 ( 24.10.2022 )
 
 Updated with new IPT Theme Framework (Work in progress) and robust compatibility with bootstrap nav, pagination etc.
 
-* PHP 7.3+ harmony
-* Wordpress 5.4+
+* PHP 8.1 
+* Wordpress 6 +
 * dialer
 * news feed
 * ad area
