@@ -178,7 +178,7 @@ msgstr "Eposta (gerekli):"
 
 #: ../bbpress/form-anonymous.php:30 ../bbpress/form-anonymous.php:31
 msgid "Website:"
-msgstr "İnternet siteniz:"
+msgstr "İnternet sayfanız:"
 
 #: ../bbpress/form-forum.php:35 ../bbpress/form-topic.php:29
 #, php-format
