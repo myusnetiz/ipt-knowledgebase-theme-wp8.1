@@ -32,7 +32,7 @@ msgstr ""
 
 #: ../404.php:38
 msgid "Recently Published Articles"
-msgstr "Son Yayınlanan Yazılar"
+msgstr "Son Yayınlanan İçerikler"
 
 #: ../404.php:58
 msgid "Knowledge Base"
@@ -41,7 +41,7 @@ msgstr "İçerikler"
 #: ../archive.php:31
 #, php-format
 msgid "Author: %s"
-msgstr "Yazar: %s"
+msgstr "Yazan: %s"
 
 #: ../archive.php:39
 #, php-format
@@ -162,7 +162,7 @@ msgstr "Aradığınız konu bulunamadı !"
 
 #: ../bbpress/form-anonymous.php:15
 msgid "Author Information"
-msgstr "Yazar Bilgileri"
+msgstr "Yazan Bilgileri"
 
 #: ../bbpress/form-anonymous.php:15
 msgid "Your information:"
